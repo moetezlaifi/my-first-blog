@@ -36,5 +36,5 @@ Welcome to the **Django Blog Project**, a simple blogging platform developed usi
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/django-blog-project.git
-cd django-blog-project
+git clone https://github.com/moetezlaifi/my-first-blog.git
+cd my-first-blog
