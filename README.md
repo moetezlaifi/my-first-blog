@@ -14,8 +14,8 @@ Welcome to the **Django Blog Project**, a simple blogging platform developed usi
 
 ## 🛠️ Technologies Used
 
-- **Python 3.10+**
-- **Django 4.x**
+- **Python **
+- **Django **
 - SQLite (default DB for development)
 - HTML, CSS and Bootstrap
 
