@@ -1,6 +1,6 @@
 # 📝 Django Blog Project
 
-Welcome to the **Django Blog Project**, a simple blogging platform developed using Django. This project is part of the teaching material used in technical training sessions by the **Trainer Manager at ACM ENSTAB**. It demonstrates fundamental concepts of web development with Django and serves as a base for beginner and intermediate learners.
+Welcome to the **Django Blog Project**, a simple blogging platform developed using Django. This project is part of the teaching material used in technical training sessions by me Moetez Laifi, a **Training Manager at ACM ENSTAB**. It demonstrates fundamental concepts of web development with Django and serves as a base for beginner and intermediate learners.
 
 ## 🎯 Objectives
 
